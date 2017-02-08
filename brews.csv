@@ -1,45 +1,45 @@
 ID,Name,City,Latitude,Longitude,Altitude
-davematt,Steamworks Brewing Company,Durango,37°16'20.47 N, 107°52'47.83 W,6566
-jrmuzzy1,Odell Brewing Company,Fort Collins, 40°35'21.56 N, 105° 3'47.61 W, 4950
-shirazi,Aspen Brewing Co, Aspen, 39°11'25.192 N, 106°49'13.1441 W,1
-xiwei26,300 Suns Brewing,Longmont,40°09'35.7 N, 105°06'04.2 W,4949
-etyree,Avalanche Brewing Company, Silverton,37°48'36.90 N,107°39'52.25 W,9297
-jdcao, Walnut Brewery Company, Boulder, 40°1'1.247 N, 105°16'49.71 W, 5430
-zachgood,New Belgium Brewery,Fort Collins,40°35'36.294 N,105°4'0.746 W,4950
-ALHennings, Crow Hop Brewing, Loveland, 40°23'40.6 N, 105°04'26.6 W, 4977 
-shc,Equinox Brewing,Fort Collins,40°35'10.93 N, 105°04'33.13 W,4988
-jcole719,Wonderland Brewing Company,Westminster,39° 54' 47.9376 N,105° 3' 21.099 W,5269
-sswensen,Vail Brewing Company,Vail,39°37'14.16 N, 106°28'10.559 W,9261
-jzuniga7,Coopersmith's Pub and Brewing,Fort Collins,41°35'14.64 N, 105°4'32.52 W,5219
-chundrus,Yak and Yeti Restaurant and Brewpub,Arvada,39°48'08.29 N, 105°05'02.73 W,5355
-anthonysuper,Equinox Brewing Co, Fort Collins, 40° 35' 10.68 N, 105° 4' 32.51 W, 1518
-cyancey, Echo Brewing Company, Frederick, 40°6'42.3004 N, 104°56'43.4429 W, 4984
-nicklane,Breckenridge Brewery, Littleton, 39°35'37.32 N, 105°1'23.88 W
-curtwebb, Rocky Mountain Brewery, Monument, 39° 5' 44.646 N, 104° 51' 34.8804 W, 6975
-jrunyan7,Cambridge Brewing Company,Cambridge,42°21'59.0 N, 71°5'28.7 W,3
-nicklane,Breckenridge Brewery, Littleton, 39°35'37.32 N, 105°1'23.88 W,5351
-bahashmi,Yampa Valley Brewing Company,Hayden, 40° 29' 21.94 N,107° 15' 49.26 W,6344
-bobby20, Storm Peak Brewing Company, Steamboat Springs, 40° 29' 49.55 N, 106° 51' 11.00 W, 6793
-ktm25,Left Hand Brewery,Longmont,40°09'29.8 N, 105°06'54.0 W,4948
-teamfor10,Dillon Dam Brewery,Dillon,39°37'39.158 N, 106°3'37.072 W,2708
-kdmnance,Climb Hard Cider,Loveland,40°24'28.7 N, 105°06'52.1 W,4982
-ncain,Great Divide Brewing Company,Denver,39°45'13.61 N, 104°59'18.53 W,5214
-dkadillak,Dry Dock Brewing Co,Aurora,39°39'9.72 N,104°48'42.8394 W,5407
-skorrico, Odd13 Brewery, Lafayette, 39°59'53.97 N, 105°5'16.27 W, 5210
-jnewell, Carver Brewing Company, Durango,37°16’29.51 N, 107°52’48.35, 6550
-brandtrobert, Coors Brewery, Golden, 39.7559° N, 105.2177° W,5675
-mmkala, Chain Reaction Brewing, Denver, 39°41'58.3542 N, 105°0'4.3194 W, 5280
-maddendb, Black Bottle, Fort Collins, 40°33'59.2 N, 105°04'43.2 W, 5013
-tworcsu, Phantom Canyon Brewing Company, Colorado Springs, 38°50'03.2"N, 104°49'28.8"W, 6012
-pbrunner, Ute Pass Brewing, Woodland Park, 38°59'40.08 N, 105°03'04.79 W, 8514
-schulzecb,Pikes Peak Brewing Company,Monument,39.0958° N, 104.8596° W,7034
-benmertz, bonfire brewing, eagle, 39°39'19.25 N, 106°49'43.24 W, 6601
-bobfromholland, The Walter Brewing Company, Pueblo, 38°15'45.037 N, 104°36'36.11 W, 4655
-kingtn,Tommyknocker Brewery & Pub,Idaho Springs,39°44'29.82"N,105°31'3.59"W,7526
-ajthomps, Funkwekrs, Fort Collins, 40°34'59.13 N, 105°2'31.41 W, 4924
-dlaw08, Storybook Brewing, Colorado Springs, 38.8777° N, 104.8124° W, 6035
-nickwalt,Industrial Revolution Brewing Company,Erie,40°3'6.74 N,105°2'54.97 W,5024
-paultrap, 7 Hermits Brewing Company, Eagle, 39°38'29.1 N 106°49'50.9 W
-robertf, Zwei Brewing, Fort Collins, 40°52'42.152 N, 105°07'61.041 W,4986
-salmanius,Wild Woods Brewery,Boulder,40°00'57.9 N,105°13'33.4 W,5231
-benascor,Broken Compass Brewing Company,Breckenridge,39�30'53.9 N 106�03'12.4 W,9377
+davematt,Steamworks Brewing Company,Durango,37Â°16'20.47 N, 107Â°52'47.83 W,6566
+jrmuzzy1,Odell Brewing Company,Fort Collins, 40Â°35'21.56 N, 105Â° 3'47.61 W, 4950
+shirazi,Aspen Brewing Co, Aspen, 39Â°11'25.192 N, 106Â°49'13.1441 W,1
+xiwei26,300 Suns Brewing,Longmont,40Â°09'35.7 N, 105Â°06'04.2 W,4949
+etyree,Avalanche Brewing Company, Silverton,37Â°48'36.90 N,107Â°39'52.25 W,9297
+jdcao, Walnut Brewery Company, Boulder, 40Â°1'1.247 N, 105Â°16'49.71 W, 5430
+zachgood,New Belgium Brewery,Fort Collins,40Â°35'36.294 N,105Â°4'0.746 W,4950
+ALHennings, Crow Hop Brewing, Loveland, 40Â°23'40.6 N, 105Â°04'26.6 W, 4977 
+shc,Equinox Brewing,Fort Collins,40Â°35'10.93 N, 105Â°04'33.13 W,4988
+jcole719,Wonderland Brewing Company,Westminster,39Â° 54' 47.9376 N,105Â° 3' 21.099 W,5269
+sswensen,Vail Brewing Company,Vail,39Â°37'14.16 N, 106Â°28'10.559 W,9261
+jzuniga7,Coopersmith's Pub and Brewing,Fort Collins,41Â°35'14.64 N, 105Â°4'32.52 W,5219
+chundrus,Yak and Yeti Restaurant and Brewpub,Arvada,39Â°48'08.29 N, 105Â°05'02.73 W,5355
+anthonysuper,Equinox Brewing Co, Fort Collins, 40Â° 35' 10.68 N, 105Â° 4' 32.51 W, 1518
+cyancey, Echo Brewing Company, Frederick, 40Â°6'42.3004 N, 104Â°56'43.4429 W, 4984
+nicklane,Breckenridge Brewery, Littleton, 39Â°35'37.32 N, 105Â°1'23.88 W
+curtwebb, Rocky Mountain Brewery, Monument, 39Â° 5' 44.646 N, 104Â° 51' 34.8804 W, 6975
+jrunyan7,Cambridge Brewing Company,Cambridge,42Â°21'59.0 N, 71Â°5'28.7 W,3
+nicklane,Breckenridge Brewery, Littleton, 39Â°35'37.32 N, 105Â°1'23.88 W,5351
+bahashmi,Yampa Valley Brewing Company,Hayden, 40Â° 29' 21.94 N,107Â° 15' 49.26 W,6344
+bobby20, Storm Peak Brewing Company, Steamboat Springs, 40Â° 29' 49.55 N, 106Â° 51' 11.00 W, 6793
+ktm25,Left Hand Brewery,Longmont,40Â°09'29.8 N, 105Â°06'54.0 W,4948
+teamfor10,Dillon Dam Brewery,Dillon,39Â°37'39.158 N, 106Â°3'37.072 W,2708
+kdmnance,Climb Hard Cider,Loveland,40Â°24'28.7 N, 105Â°06'52.1 W,4982
+ncain,Great Divide Brewing Company,Denver,39Â°45'13.61 N, 104Â°59'18.53 W,5214
+dkadillak,Dry Dock Brewing Co,Aurora,39Â°39'9.72 N,104Â°48'42.8394 W,5407
+skorrico, Odd13 Brewery, Lafayette, 39Â°59'53.97 N, 105Â°5'16.27 W, 5210
+jnewell, Carver Brewing Company, Durango,37Â°16â€™29.51 N, 107Â°52â€™48.35, 6550
+brandtrobert, Coors Brewery, Golden, 39.7559Â° N, 105.2177Â° W,5675
+mmkala, Chain Reaction Brewing, Denver, 39Â°41'58.3542 N, 105Â°0'4.3194 W, 5280
+maddendb, Black Bottle, Fort Collins, 40Â°33'59.2 N, 105Â°04'43.2 W, 5013
+tworcsu, Phantom Canyon Brewing Company, Colorado Springs, 38Â°50'03.2"N, 104Â°49'28.8"W, 6012
+pbrunner, Ute Pass Brewing, Woodland Park, 38Â°59'40.08 N, 105Â°03'04.79 W, 8514
+schulzecb,Pikes Peak Brewing Company,Monument,39.0958Â° N, 104.8596Â° W,7034
+benmertz, bonfire brewing, eagle, 39Â°39'19.25 N, 106Â°49'43.24 W, 6601
+bobfromholland, The Walter Brewing Company, Pueblo, 38Â°15'45.037 N, 104Â°36'36.11 W, 4655
+kingtn,Tommyknocker Brewery & Pub,Idaho Springs,39Â°44'29.82"N,105Â°31'3.59"W,7526
+ajthomps, Funkwerks, Fort Collins, 40Â°34'59.13 N, 105Â°2'31.41 W, 4924
+dlaw08, Storybook Brewing, Colorado Springs, 38.8777Â° N, 104.8124Â° W, 6035
+nickwalt,Industrial Revolution Brewing Company,Erie,40Â°3'6.74 N,105Â°2'54.97 W,5024
+paultrap, 7 Hermits Brewing Company, Eagle, 39Â°38'29.1 N 106Â°49'50.9 W
+robertf, Zwei Brewing, Fort Collins, 40Â°52'42.152 N, 105Â°07'61.041 W,4986
+salmanius,Wild Woods Brewery,Boulder,40Â°00'57.9 N,105Â°13'33.4 W,5231
+benascor,Broken Compass Brewing Company,Breckenridge,39°30'53.9 N 106°03'12.4 W,9377
