@@ -1,4 +1,4 @@
-ID,Name,City,Latitude,Longitude,Altitude
+﻿ID,Name,City,Latitude,Longitude,Altitude
 davematt,Steamworks Brewing Company,Durango,37Â°16'20.47 N, 107Â°52'47.83 W,6566
 jrmuzzy1,Odell Brewing Company,Fort Collins, 40Â°35'21.56 N, 105Â° 3'47.61 W, 4950
 shirazi,Aspen Brewing Co, Aspen, 39Â°11'25.192 N, 106Â°49'13.1441 W,1
@@ -60,4 +60,7 @@ GrEedWish, Platt Park Brewing Company, Denver, 39°40'57.2 N, 104°58'50.7 W,529
 bcgdwn, 38 State Brewing, Littleton, 39°34'08.3 N, 104°59'22.6 W, 5633
 hunterv, Crazy Mountain Brewing, Vail, 39°64'88.02 N,  -106°58'85.85 W, 7254
 jkraft, WeldWerks Brewing Company, Greeley, 40Â°25'40.15 N, 104Â°41'23.89 W,4658
+bmhogan, Grimm Brothers Brewhouse, Loveland,  40°23'47.98"N, 105° 2'49.05"W, 4953
+jkraft, WeldWerks Brewing Company, Greeley, 40Â°25'40.15 N, 104Â°41'23.89 W,4658
+Findawg, Tivoli Brewing Company, Denver, 39° 44' 42.8568" N, 105° 0' 20.862" W, 5196
 
