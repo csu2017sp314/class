@@ -1,4 +1,4 @@
-ID,Name,City,Latitude,Longitude,Altitude
+﻿ID,Name,City,Latitude,Longitude,Altitude
 davematt,Steamworks Brewing Company,Durango,37Â°16'20.47 N, 107Â°52'47.83 W,6566
 jrmuzzy1,Odell Brewing Company,Fort Collins, 40Â°35'21.56 N, 105Â° 3'47.61 W,4950
 shirazi,Aspen Brewing Co, Aspen, 39Â°11'25.192 N, 106Â°49'13.1441 W,1
@@ -7,6 +7,7 @@ etyree,Avalanche Brewing Company, Silverton,37Â°48'36.90 N,107Â°39'52.25 W,9
 jdcao, Walnut Brewery Company, Boulder, 40Â°1'1.247 N, 105Â°16'49.71 W,5430
 zachgood,New Belgium Brewery,Fort Collins,40Â°35'36.294 N,105Â°4'0.746 W,4950
 ALHennings, Crow Hop Brewing, Loveland, 40Â°23'40.6 N, 105Â°04'26.6 W,4977
+ALHennings, Crow Hop Brewing, Loveland, 40Â°23'40.6 N, 105Â°04'26.6 W, 4977
 shc,Equinox Brewing,Fort Collins,40Â°35'10.93 N, 105Â°04'33.13 W,4988
 jcole719,Wonderland Brewing Company,Westminster,39Â° 54' 47.9376 N,105Â° 3' 21.099 W,5269
 sswensen,Vail Brewing Company,Vail,39Â°37'14.16 N, 106Â°28'10.559 W,9261
@@ -16,6 +17,11 @@ anthonysuper,Equinox Brewing Co, Fort Collins, 40Â° 35' 10.68 N, 105Â° 4' 32
 cyancey, Echo Brewing Company, Frederick, 40Â°6'42.3004 N, 104Â°56'43.4429 W,4984
 nicklane,Breckenridge Brewery, Littleton, 39Â°35'37.32 N, 105Â°1'23.88 W,
 curtwebb, Rocky Mountain Brewery, Monument, 39Â° 5' 44.646 N, 104Â° 51' 34.8804 W,6975
+anthonysuper,Equinox Brewing Co, Fort Collins, 40Â° 35' 10.68 N, 105Â° 4' 32.51 W, 1518
+cyancey, Echo Brewing Company, Frederick, 40Â°6'42.3004 N, 104Â°56'43.4429 W, 4984
+cmarques, Goldspot Brewing Company,Denver, 39°47'12.8 N, 105°02'03.5 W, 5382
+nicklane,Breckenridge Brewery, Littleton, 39Â°35'37.32 N, 105Â°1'23.88 W
+curtwebb, Rocky Mountain Brewery, Monument, 39Â° 5' 44.646 N, 104Â° 51' 34.8804 W, 6975
 jrunyan7,Cambridge Brewing Company,Cambridge,42Â°21'59.0 N, 71Â°5'28.7 W,3
 nicklane,Breckenridge Brewery, Littleton, 39Â°35'37.32 N, 105Â°1'23.88 W,5351
 bahashmi,Yampa Valley Brewing Company,Hayden, 40Â° 29' 21.94 N,107Â° 15' 49.26 W,6344
@@ -54,3 +60,35 @@ cdicesare, Loveland Ale Works, Loveland, 40°23' 43.08 N, 105°4'38.28 W,4982
 tjnolan, Smuggler's Brewpub, Telluride," 37°56'18.438"" N"," 107°48'36.9"" W",8806
 zongyw, Golden Block Brewery, Golden," 37°48'43.61"" N"," 107°39'51.73"" W",9327
 amkreien,Dead Hippie Brewing,Sheridan,"39° 38' 57.4794""","105° 0' 14.4""","5,325′"
+athai0335, Ursula Brewery, Aurora, 39° 44' 55.2804'' N,104° 50' 18.1968'' W
+rfred, high hops brewery, windsor, 40Â°28'50.4732 N, 104Â°56'8.2068W, 4797
+alansor, Big Beaver Brewing, Loveland, 40Â°24'28.8 N, 105Â°06'52.0 W, 5069
+maierwm, High Alpine Brewing Company, Gunnison, 38°32'41.1"N, -106°55'38.3"W, 7700
+cdicesare, Loveland Ale Works, Loveland, 40°23' 43.08 N, 105°4'38.28 W, 4982
+tjnolan, Smuggler's Brewpub, Telluride, 37°56'18.438" N, 107°48'36.9" W, 8806
+zongyw, Golden Block Brewery, Golden, 37°48'43.61" N, 107°39'51.73" W, 9327
+mjdunn7, Pateros Creek Brewing Company, Fort Collins, 40°35'23.6"N 105°04'35.3"W,5082
+wbrown64, Ska Brewing Company, Durango, 37Â°14'19.68 N, 107Â°52'34.14 W,6512
+tjohns0n,Barnett and Son,Parker,39°31'19.8768 N,104°46'30.0072 W,5816
+GrEedWish, Platt Park Brewing Company, Denver, 39°40'57.2 N, 104°58'50.7 W,5298
+bcgdwn, 38 State Brewing, Littleton, 39°34'08.3 N, 104°59'22.6 W, 5633
+hunterv, Crazy Mountain Brewing, Vail, 39°64'88.02 N,  -106°58'85.85 W, 7254
+jkraft, WeldWerks Brewing Company, Greeley, 40Â°25'40.15 N, 104Â°41'23.89 W,4658
+bmhogan, Grimm Brothers Brewhouse, Loveland,  40°23'47.98"N, 105° 2'49.05"W, 4953
+jkraft, WeldWerks Brewing Company, Greeley, 40Â°25'40.15 N, 104Â°41'23.89 W,4658
+Findawg, Tivoli Brewing Company, Denver, 39° 44' 42.8568" N, 105° 0' 20.862" W, 5196
+mblaisus, Twisted Pine Brewing Co, Boulder, 40°1'14.7576'' N, 105°15'3.8628'' W,5430
+lsouth, Boggy Draw Brewery, Sheridan, 39.6529° N, 105.0105° W,5325
+ashellum, Declaration Brewing, Denver, 39.6798° N, 104.9908° W, 5280
+nerfed, Prost Brewing, Denver, 39° 45' 41.076 N, 105° 0' 24.2784 W, 5218
+spencerlofing,Very Nice Brewing Company,Nederland,39°57'35.9"N,105°30'32.8"W,8242
+pello, 7 Hermits Brewing Company , Eagle, 39Â°38'28.79 N, 106Â°49'50.89 W, 6597
+bpowley,New Image Brewing Company,Arvada,39°79’96.433"N,105°08’41.736"W,5344
+dlennox, Upslope Brewing Company, 40° 1'12.58"N, 105°13'5.42"W, 6390
+cTre19, Wiley Roots Brewing Company, Greeley, 40.4314° N, 104.6885° W, 4646
+kclipp, San Luis Valley Brewing Company, Alamosa, 37°28'05.9 N, 105°52'00.7 W, 7549
+mepsheehan,Fort Collins Brewery & Tavern,Fort Collins,40Â°35'21.19 N,105Â°3'30.67 W,4957
+woster, Gold Camp Brewing Company, Colorado Springs, 38°81'95.71 N, 104°82'36.09 W, 5919
+ColtonTapparo, Blue Moon Brewing Company, Denver, 39Â°46'24.67 N, 104Â°58'37.81 W, 5197
+KelseyCribari, Main Street Brewery and Restaurant, Cortez 37.3483° N, 108.5846° W
+hullings,Colorado Mountain Brewery,Colorado Springs,43Â°38'19.39 N, 116Â°14'28.86 W,6644
