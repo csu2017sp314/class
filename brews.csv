@@ -1,4 +1,4 @@
-﻿ID,Name,City,Latitude,Longitude,Altitude
+ID,Name,City,Latitude,Longitude,Altitude
 davematt,Steamworks Brewing Company,Durango,37°16'20.47" N, 107°52'47.83" W,6566
 jrmuzzy1,Odell Brewing Company,Fort Collins, 40Â°35'21.56 N, 105Â° 3'47.61 W,4950
 shirazi,Aspen Brewing Co, Aspen, 39Â°11'25.192 N, 106Â°49'13.1441 W,1
@@ -26,7 +26,7 @@ kdmnance,Climb Hard Cider,Loveland,40Â°24'28.7 N, 105Â°06'52.1 W,4982
 noahcain,Great Divide Brewing Company,Denver,39°45'13.61" N, 104°59'18.53" W,5214
 devbot,Dry Dock Brewing Co,Aurora,39°39'9.72" N,104°48'42.8394" W,5407
 skorrico,Odd13 Brewery,Lafayette,39°59'53.97" N, 105°5'16.27" W,5210
-jnewell, Carver Brewing Company, Durango,37Â°16â€™29.51 N, 107Â°52â€™48.35,6550
+jnewell,Carver Brewing Company,Durango,37Â°16â€™29.51 N,107Â°52â€™48.35,6550
 brandtr, Coors Brewery, Golden, 39°45'21.3804"N, 105° 13' 3.756" W,5675
 mmkala,Chain Reaction Brewing,Denver,39°41'58.3542" N,105°0'4.3194" W,5280
 maddendb, Black Bottle, Fort Collins, 40Â°33'59.2 N, 105Â°04'43.2 W,5013
@@ -44,8 +44,8 @@ robertf, Zwei Brewing, Fort Collins, 40Â°52'42.152 N, 105Â°07'61.041 W,4986
 salmanius,Wild Woods Brewery,Boulder,40Â°00'57.9 N,105Â°13'33.4 W,5231
 benascor,Broken Compass Brewing Company,Breckenridge,39°30'53.9 N 106°03'12.4 W,9377,
 rfred,high hops brewery,windsor,40°28'50.4732" N, 104°56'8.2068" W,4797
+bjarrett,Horse & Dragon,Fort Collins,40°35'22.72" N,105°2'44.24" W,4933
 jcedward,Hideaway Park Brewery,Winter Park,39°55'04.90" N, 105°47'02.50" W,8800
-bjarrett,Horse & Dragon,Fort Collins,40° 35' 22.7184 N,105° 2' 44.2428 W,4933
 athai0335, Ursula Brewery, Aurora, 39° 44' 55.2804'' N,104° 50' 18.1968'' W
 jkerchal, Big Beaver Brewing, Loveland, 40°24'28.8" N, 105°06'52.0" W, 5069
 maierwm, High Alpine Brewing Company, Gunnison, 38°32'41.1"N, -106°55'38.3"W, 7700
