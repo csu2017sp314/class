@@ -1,4 +1,4 @@
-ID,Name,City,Latitude,Longitude,Altitude
+﻿ID,Name,City,Latitude,Longitude,Altitude
 davematt,Steamworks Brewing Company,Durango,37°16'20.47" N, 107°52'47.83" W,6566
 jrmuzzy1,Odell Brewing Company,Fort Collins, 40Â°35'21.56 N, 105Â° 3'47.61 W,4950
 shirazi,Aspen Brewing Co, Aspen, 39Â°11'25.192 N, 106Â°49'13.1441 W,1
@@ -80,7 +80,7 @@ woster, Gold Camp Brewing Company, Colorado Springs, 38°81'95.71" N, 104°82'36
 ColtonTapparo, Blue Moon Brewing Company, Denver, 39Â°46'24.67 N, 104Â°58'37.81 W,5197
 kcribari,Main Street Brewery and Restaurant,Cortez,37°20'53.91" N,108°35'4.47" W,6188
 ekdoan,Glenwood Canyon Brewing Company,Glenwood Springs,39°32'51.33"N,107°19'23.13"W,5761
-hullings,Colorado Mountain Brewery,Colorado Springs,43Â°38'19.39 N, 116Â°14'28.86 W,6644
+hullings,Colorado Mountain Brewery,Colorado Springs,43°38'19.39" N,116°14'28.86" W,6644
 ahalbrig,Suds Brothers Brewery,Fruita,"39°9'32.991"" N","108°43'57.641"" W",
 gtjohnso,Broken Plow Brewery ,Greely,40° 25' 19.2” N,104° 45’ 25.92” W,4658
 korsam, Gravity Brewing, Louisville, 39.9761° N, 105.1287° W, 5,335
