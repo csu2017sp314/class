@@ -32,8 +32,8 @@ brandtrobert, Coors Brewery, Golden, 39.7559Â° N, 105.2177Â° W,5675
 mmkala,Chain Reaction Brewing,Denver,39°41'58.3542" N,105°0'4.3194" W,5280
 maddendb, Black Bottle, Fort Collins, 40Â°33'59.2 N, 105Â°04'43.2 W,5013
 tworcsu, Phantom Canyon Brewing Company, Colorado Springs," 38Â°50'03.2""N"," 104Â°49'28.8""W",6012
-pbrunner, Ute Pass Brewing, Woodland Park, 38Â°59'40.08 N, 105Â°03'04.79 W,8514
 cschulze,Pikes Peak Brewing Company,Monument,39°5'45.006" N, 104°51'34.56" W,7034
+pjbrunn,Ute Pass Brewing,Woodland Park,38°59'40.08" N,105°03'04.79" W,8514
 benmertz, bonfire brewing, eagle, 39Â°39'19.25 N, 106Â°49'43.24 W,6601
 bobfromholland, The Walter Brewing Company, Pueblo, 38Â°15'45.037 N, 104Â°36'36.11 W,4655
 kingtn,Tommyknocker Brewery & Pub,Idaho Springs,"39Â°44'29.82""N","105Â°31'3.59""W",7526
@@ -69,8 +69,7 @@ jkraft, WeldWerks Brewing Company, Greeley, 40Â°25'40.15 N, 104Â°41'23.89 W,
 bmhogan, Grimm Brothers Brewhouse, Loveland,"  40°23'47.98""N"," 105° 2'49.05""W",4953
 jkraft, WeldWerks Brewing Company, Greeley, 40Â°25'40.15 N, 104Â°41'23.89 W,4658
 Findawg, Tivoli Brewing Company, Denver," 39° 44' 42.8568"" N"," 105° 0' 20.862"" W",5196
-mblaisus, Twisted Pine Brewing Co, Boulder, 40°1'14.7576'' N, 105°15'3.8628'' W,5430
-lsouth,Boggy Draw Brewery,Sheridan,39°39'10.0404" N,105°00'38.7936" W,5325
+lsouth, Boggy Draw Brewery, Sheridan, 39.6529° N, 105.0105° W,5325
 ashellum, Declaration Brewing, Denver, 39.6798° N, 104.9908° W,5280
 lsouth, Boggy Draw Brewery, Sheridan, 39.6529° N, 105.0105° W,5325
 ashellum, Declaration Brewing, Denver, 39°40'47.28" N, 104°59'26.8794" W,5280
@@ -93,3 +92,4 @@ korsam, Gravity Brewing, Louisville, 39.9761° N, 105.1287° W, 5,335
 edebanva, RamSkeller Brewing, Fort Collins, 40°34'29.42"N, 105° 5'4.68"W, 5011
 Findawg, Tivoli Brewing Company, Denver, 39° 44' 42.8568" N, 105° 0' 20.862" W, 5196
 mblaisus, Twisted Pine Brewing Co, Boulder, 40°1'14.7576" N, 105°15'3.8628" W,5430
+amkreien,Dead Hippie Brewing,Sheridan,39° 38' 57.4794" N,105° 0' 14.4" W,5325
