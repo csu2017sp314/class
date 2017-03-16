@@ -1,0 +1,14 @@
+<xml>
+<selection>
+<title>Each student should select a unique large airport outside the US</title>
+<filename>airports.csv</filename>
+<destinations>
+<id>KDEN</id><!--Starting point is Denver-->
+<id>NZCH</id><!--davematt-->
+<!-- 
+Add the id of your selected airport and a comment with your eName below this comment.  I've provided an example with my selection above the comment.  
+NO DUPLICATES!
+Must be a large airport outside of the US.  This information is provided in the airports.csv file.
+-->
+</destinations>
+</selection>
