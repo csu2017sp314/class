@@ -11,7 +11,7 @@ Must be a large airport outside of the US.  This information is provided in the 
 NO DUPLICATES!
 -->
 <id>NZCH</id><!--davematt-->
-<id>EHAM</id><!--bobfromholland-->
+<id>EHAM</id><!--velthuis-->
 <id>EDDB</id><!--bmhogan-->
 <id>VDPP</id><!--mepsheeh-->
 <id>BIKF</id><!--nfredrik-->
@@ -29,7 +29,6 @@ NO DUPLICATES!
 <id>EBBR</id><!--jcedward-->
 <id>FACT</id><!--ctcochra-->
 <id>EGVN</id><!--mjdunn-->
-<id>KJFK</id><!--jdcao-->
 <id>EDDM</id><!--jdcao-->
 <id>EDDF</id><!--dlennox-->
 <id>EGCC</id><!--pello-->
@@ -45,7 +44,7 @@ NO DUPLICATES!
 <id>RJTT</id><!--brandtr-->
 <id>EDDW</id><!--astaven-->
 <id>EGPF</id><!--mmkala-->
-<id>MBPV</id><!--sswensen-->
+<id>OERK</id><!--sswensen-->
 <id>VOHS</id><!--chundrus-->
 <id>OSDI</id><!--maierwm-->
 <id>CYUL</id><!--kingtn-->
@@ -53,10 +52,13 @@ NO DUPLICATES!
 <id>OMDB</id><!--bahashmi-->
 <id>UWWW</id><!--noahcain-->
 <id>ZSAM</id><!--tjohns0n-->
+<id>ZSWZ</id><!--cmarques-->
 <id>VHHH</id><!--bcgood-->
 <id>ZSPD</id><!--jimx-->
+<id>EKCH</id><!--ekdoan-->
+<id>LEMD</id><!--kcribari-->
 <id>TNCM</id><!--toddw-->
-<id>BZV</id><!--lsouth-->
+<id>EBCI</id><!--lsouth-->
 <id>RJBB</id><!--bpowley-->
 <id>AMC</id><!--slofadop-->
 <id>CYVR</id><!--jkraft-->
@@ -64,5 +66,15 @@ NO DUPLICATES!
 <id>CYYC</id><!--asuper-->
 <id>MSLP</id><!--jrunyan7-->
 <id>PHNL</id><!--westifer-->
+<id>PAWS</id><!--ColtonTapparo-->  
+<id>CYHZ</id><!--benmertz-->
+<id>LIRA</id><!--jfmccoy-->
+<id>PDR</id><!--edebanva-->
+<id>DNMM</id><!--colly-->
+<id>WAAA</id><!--cschulze-->
+<id>ZGSZ</id><!--kclipp-->
+<id>OSLK</id><!--rumps-->
+<id>RU-4464</id><!--etyree-->
+<id>YSBK</id><!--Findawg-->
 </destinations>
 </selection>
