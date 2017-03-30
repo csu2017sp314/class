@@ -4,9 +4,9 @@
 <filename>airports.csv</filename>
 <destinations>
 <id>KDEN</id><!--Include Denver in the tour-->
-<!-- 
-Add the id of your selected airport and a comment with your eName below this comment.  
-I've provided an example with my selection above the comment.  
+<!--
+Add the id of your selected airport and a comment with your eName below this comment.
+I've provided an example with my selection above the comment.
 Must be a large airport outside of the US.  This information is provided in the airports.csv file.
 NO DUPLICATES!
 -->
@@ -17,7 +17,7 @@ NO DUPLICATES!
 <id>BIKF</id><!--nfredrik-->
 <id>AYPY</id><!--ashellum-->
 <id>ZYHB</id><!--athai-->
-<id>ZYTX</id><!--wbrown--> 
+<id>ZYTX</id><!--wbrown-->
 <id>BKPR</id><!--cokin-->
 <id>CYEG</id><!--maddendb-->
 <id>LFOA</id><!--paultrap-->
@@ -66,7 +66,7 @@ NO DUPLICATES!
 <id>CYYC</id><!--asuper-->
 <id>MSLP</id><!--jrunyan7-->
 <id>PHNL</id><!--westifer-->
-<id>PAWS</id><!--ColtonTapparo-->  
+<id>PAWS</id><!--ColtonTapparo-->
 <id>CYHZ</id><!--benmertz-->
 <id>LIRA</id><!--jfmccoy-->
 <id>PDR</id><!--edebanva-->
@@ -74,9 +74,9 @@ NO DUPLICATES!
 <id>WAAA</id><!--cschulze-->
 <id>ZGSZ</id><!--kclipp-->
 <id>OSLK</id><!--rumps-->
-<id>ZZZZ</id><!--jzuniga7-->
+<id>ZWWW</id><!--jzuniga7-->
 <id>RU-4464</id><!--etyree-->
-<id>YSBK</id><!--Findawg-->
+<id>CYQN</id><!--findawg-->
 <id>ZUUU</id><!--curtwebb-->
 <id>EGFF</id><!--cjuracek-->
 <id>CYOW</id><!--gtjohnso-->
@@ -86,6 +86,9 @@ NO DUPLICATES!
 <id>ENZV</id><!--xjagz-->
 <id>ORBM</id><!--dlaw-->
 <id>CYWG</id><!--mblaisus-->
+<id>EDDH</id><!--hunterv-->
+<id>CPK7</id><!--mattring-->
+<id>FAJS</id><!--tjnolan-->
 <id>PHNL</id><!--amkreien-->  
 </destinations>
 </selection>
