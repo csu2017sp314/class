@@ -1,4 +1,4 @@
-<xml>
+<?xml version="1.0"?>
 <selection>
 <title>Each student should select a unique large airport outside the US</title>
 <filename>airports.csv</filename>
